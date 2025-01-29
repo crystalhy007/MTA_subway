@@ -1,6 +1,7 @@
 # MTA Subway Operational Metrics Dashboard Analysis Report
 
-<Tablau Dashboard>https://public.tableau.com/app/profile/yue.hu7240/viz/MTASubway/Overview
+[Tablau Dashboard](https://public.tableau.com/app/profile/yue.hu7240/viz/MTASubway/Overview)
+
 ## 1. Introduction
 This report presents insights derived from the MTA Subway Operational Metrics Dashboards, which utilize data spanning January 2020 to November 2024 from data.ny.gov. The analysis aims to provide an in-depth understanding of subway service performance, ridership trends, station utilization, delays, and incidents.
 
